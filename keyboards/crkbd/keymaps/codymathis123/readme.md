@@ -1,1 +1,3 @@
-# The default keymap for cornelius
+# My layout for CRKBD
+
+Based on Miryoku
