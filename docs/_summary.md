@@ -4,6 +4,7 @@
   * [Building Your First Firmware](newbs_building_firmware.md)
   * [Flashing Firmware](newbs_flashing.md)
   * [Getting Help/Support](support.md)
+  * [Building With GitHub Userspace](newbs_building_firmware_workflow.md)
   * [Other Resources](newbs_learn_more_resources.md)
   * [Syllabus](syllabus.md)
 
@@ -169,6 +170,7 @@
       * [Early initialization](platformdev_chibios_earlyinit.md)
       * [Raspberry Pi RP2040](platformdev_rp2040.md)
       * [Proton C](platformdev_proton_c.md)
+      * [WeAct Blackpill F411](platformdev_blackpill_f411.md)
 
   * QMK Reference
     * [Contributing to QMK](contributing.md)
